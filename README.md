@@ -1,2 +1,1 @@
-# ml-scratch
-Implementations of machine learning algorithms from scratch
+# Machine learning from scratch
